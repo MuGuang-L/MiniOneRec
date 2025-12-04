@@ -19,7 +19,7 @@ Scaling Generative Recommendation**
 
 ## 📢 Announcement
 
-- 202512-04 - We update new scripts to support processing the Amazon23 dataset.
+- 2025-12-04 - We update new scripts to support processing the Amazon23 dataset.
 
 - 2025-12-01 - We fix a bug in data.py that could cause the SID–item alignment task to see the answers in advance. This was because we had previously attempted to use partial trajectories to guide the full SID–item generation and does not affect the model performance.
 
